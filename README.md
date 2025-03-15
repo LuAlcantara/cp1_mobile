@@ -9,12 +9,6 @@ Aplicativo mobile em **React Native** com **Expo** para calcular o aumento de me
 - Navegação entre telas com `@react-navigation`
 - Interface com logo da FIAP e design centralizado 🎨
 
-## Tecnologias 💻
-- React Native
-- Expo (SDK 52)
-- @react-navigation
-- JavaScript
-
 ## Integrante
 - Lucas Alcântara Carvalho
 - RM 95111
